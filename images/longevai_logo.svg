@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F8FF7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E5EAA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6AC7B0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#397F6E;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="white" stroke="#E0E0E0" stroke-width="2"/>
+  
+  <!-- Wave Pattern (Representing Life Expectancy Trends) -->
+  <path d="M 10,100 C 30,85 50,115 70,95 C 90,75 110,125 130,105 C 150,85 170,115 190,95" 
+        stroke="#75C5C9" stroke-width="4" fill="none"/>
+  
+  <!-- Main Icon - Stylized Graph with Node -->
+  <path d="M 40,140 L 40,70 L 160,70 L 160,140" stroke="#4F8FF7" stroke-width="4" fill="none"/>
+  <circle cx="70" cy="110" r="8" fill="url(#grad1)"/>
+  <circle cx="100" cy="90" r="8" fill="url(#grad1)"/>
+  <circle cx="130" cy="100" r="8" fill="url(#grad1)"/>
+  
+  <!-- AI Element -->
+  <circle cx="130" cy="40" r="15" fill="url(#grad2)"/>
+  <path d="M 130,40 L 130,55 M 122,47 L 138,47" stroke="white" stroke-width="3"/>
+  
+  <!-- Text Elements -->
+  <text x="50" y="160" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333333">LongevAI</text>
+</svg> 

@@ -1,7 +1,7 @@
 # LongevAI: Transformer-Based Forecasting for Global Life Expectancy
 
 <p align="center">
-  <img src="images/logo_placeholder.png" alt="LongevAI Logo" width="200"/>
+  <img src="images/longevai_logo.png" alt="LongevAI Logo" width="500"/>
 </p>
 
 <p align="center">
