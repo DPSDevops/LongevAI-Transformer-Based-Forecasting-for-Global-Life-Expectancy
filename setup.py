@@ -4,7 +4,7 @@ setup(
     name="LongevAI",
     version="0.1.0",
     author="Tolstoy Justin",
-    author_email="tolstoy.justin@example.com",
+    author_email="tolstoyjustin@gmail.com",
     description="Transformer-based forecasting for global life expectancy",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",

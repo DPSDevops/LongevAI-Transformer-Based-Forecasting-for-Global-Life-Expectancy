@@ -185,7 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Developed by Tolstoy Justin ([GitHub](https://github.com/DPSDevops))
+Developed by Tolstoy Justin ([GitHub](https://github.com/DPSDevops), [Email](mailto:tolstoyjustin@gmail.com))
 
 If you use this project for academic research or publications, please cite:
 
